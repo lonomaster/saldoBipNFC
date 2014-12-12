@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"         
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:id="@+id/info"
+        android:gravity="center"
+        android:padding="20dp"
+
+         >
+
+
+ 
+           
+          
+     
+            
+            <TextView
+                android:id="@+id/numero"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0099CC"
+                android:gravity="right" />
+            
+            
+            
+            <TextView
+                android:id="@+id/fecha"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#0099CC"
+                android:gravity="right" />
+            
+            
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#99CC00"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:text="@string/saldo_bip" />
+            
+            <TextView
+                android:id="@+id/saldobip"
+              android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#669900"
+                android:textSize="40dp"
+                android:textStyle="bold"
+                android:gravity="right"
+                />
+            <TextView
+                 android:id="@+id/mensaje"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="#FF8800"
+                android:textSize="10dp"
+                android:padding="10dp"
+                android:text="" />
+             
+   
+
+	 </LinearLayout> 
+ 
+    

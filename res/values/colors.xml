@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#99E3E3E3</color>
+    <color name="blanco">#ffffff</color>
+    <color name="plomo">#B5B5B5</color>
+    <color name="feed_bg">#99CC00</color>
+    <color name="feed_item_bg">#99ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#FFBB00</color>
+    <color name="timestamp">#0099CC</color>    
+</resources>

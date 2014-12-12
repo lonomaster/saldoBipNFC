@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">saldoBip NFC</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="nombre">Escribe tu nombre:</string>
+    <string name="hola">Hola</string>
+    <string name="title_activity_saludo">Saludo</string>
+    <string name="consultar_saldo" translatable="false">NFC: Acerque su Tarjeta</string>
+    <string name="cargar_saldo" translatable="false">Cargar 10k</string>
+	<string name="cambiar_numero" translatable="false">Cambiar N° BIP!</string>
+	<string name="tu_tarjeta_bip" translatable="false">Tu tarjeta BIP!</string>
+	<string name="numero_uuid" translatable="false">Número de chip</string>
+	<string name="numero_bip" translatable="false">Número tarjeta BIP!</string>
+	<string name="saldo_bip" translatable="false">Tu Saldo</string>
+
+</resources>
